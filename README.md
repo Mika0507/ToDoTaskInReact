@@ -7,11 +7,6 @@ This application demonstrates an organization system based on priority. The enti
 
 This project was developed following a course by Jannick Leismann on Udemy. Special thanks to them for their guidance and comprehensive lessons.
 
-## Installation
-
-1- Clone the repository:
-2- Navigate to the project directory:
-3- Install dependencies:
 
 ## Usage
 
